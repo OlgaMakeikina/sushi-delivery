@@ -1,21 +1,21 @@
-Breakfasts for the whole week
-This project was bootstrapped with Create React App.
+# Sushi Delivery Website
 
-Description
-In the project directory, you can run:
+## Description
 
-Features
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+The website for a sushi-restaourant
 
-The page will reload when you make changes.
-You may also see any lint errors in the console.
+### Features
 
-Usage
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+The application allows to add things to the list using INPUT. After a double click on the thing, it will be crossed out. All list can be deleted. 
 
-technologies Used
-JavaScript / React
-HTML
-CSS
+### Usage
+
+1. Enter the thing that someone wants to do or achive in life.
+2. Click the button "ADD" to add this thing in the list.
+3. Double click on the thing from tha list in case the thing is done.
+4. Click delete to delete the whole list. 
+
+### Technologies
+
+1. Bootstrap
+2. HTML/ CSS
